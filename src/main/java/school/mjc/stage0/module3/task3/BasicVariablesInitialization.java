@@ -2,6 +2,17 @@ package school.mjc.stage0.module3.task3;
 
 public class BasicVariablesInitialization {
     public static void main(String[] args) {
-        //write code here
+        int first ;
+        first = 1;
+        int second;
+        second = 10;
+        int third;
+        third = 100;
+
+        System.out.println(first);
+        System.out.println(second);
+        System.out.println(third);
+
+
     }
 }
